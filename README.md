@@ -36,19 +36,19 @@ JSONデータとWord(docx)テンプレートをレンダリングして出力す
         "to_company_department": "イヤホン本部",
         "relocation_date": "令和元年 7月 28日",
         "post_code": "123-4567",
-        "new_address": "東京都港区サンプル1-2-3 ビルディング 60F",
+        "new_address": "東京都港区サンプル1-2-3 ビルディング 45F",
         "new_phone_number": "1234-56-7890",
         "new_fax_number": "1234-56-7890"
     },
     {
-        "create_date": "令和元年 5月 1日",
+        "create_date": "2019年 5月 1日",
         "to_company_name": "冷暖房リモコン株式会社",
         "to_company_department": "ティッシュケース本部",
-        "relocation_date": "令和元年 7月 28日",
-        "post_code": "123-4567",
-        "new_address": "東京都港区サンプル1-2-3 ビルディング 60F",
-        "new_phone_number": "1234-56-7890",
-        "new_fax_number": "1234-56-7890"
+        "relocation_date": "2019年 7月 28日",
+        "post_code": "987-6543",
+        "new_address": "東京都港区サンプル9-8-7 ビルディング 65F",
+        "new_phone_number": "0987-65-4321",
+        "new_fax_number": "0987-65-4321"
     }
 ]
 ```
